@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
 
 :root {
-    --cor-principal: #6e859f;
-    --cor-secundaria: #760d2a;
-    --cor-destaque: #fc2b7b;
+    --cor-principal: #ca68c5;
+    --cor-secundaria: #4f0579;
+    --cor-destaque: #9f33d5;
 }
 
 body {
